@@ -1,4 +1,4 @@
-import create from 'node_modules/zustand/react';
+import create from 'zustand/react';
 
 type StoreProps = {};
 

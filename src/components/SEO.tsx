@@ -1,8 +1,7 @@
 import constants from '@utils/constants';
-import { SEOProps } from 'index';
-import Head from 'node_modules/next/head';
-
-import { FC } from 'react';
+import type { SEOProps } from 'index';
+import Head from 'next/head';
+import type { FC } from 'react';
 
 const SEO: FC<SEOProps> = ({ pageTitle, description }) => {
   return (

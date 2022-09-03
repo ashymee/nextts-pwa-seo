@@ -1,5 +1,5 @@
-import Link from 'node_modules/next/link';
-import { useRouter } from 'node_modules/next/router';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
 
 const links = [
   { title: 'home', slug: '/' },
