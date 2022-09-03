@@ -1,0 +1,108 @@
+{
+  "name": "DevStreetLab Metaverse",
+  "shortName": "DSL Meta",
+  "id": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "sizes": "512x512",
+      "density": "0.75",
+      "type": "image/png",
+      "src": "/assets/icons/icon-512x512.png"
+    },
+    {
+      "sizes": "256x256",
+      "density": "0.75",
+      "type": "image/png",
+      "src": "/assets/icons/icon-256x256.png"
+    },
+    {
+      "sizes": "192x192",
+      "density": "4.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-192x192.png"
+    },
+    {
+      "sizes": "180x180",
+      "density": "4.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-180x180.png"
+    },
+    {
+      "sizes": "167x167",
+      "density": "4.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-167x167.png"
+    },
+    {
+      "sizes": "144x144",
+      "density": "3.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-144x144.png"
+    },
+    {
+      "sizes": "128x128",
+      "density": "3.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-128x128.png"
+    },
+    {
+      "sizes": "120x120",
+      "density": "3.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-120x120.png"
+    },
+    {
+      "sizes": "114x114",
+      "density": "3.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-114x114.png"
+    },
+    {
+      "sizes": "96x96",
+      "density": "2.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-96x96.png"
+    },
+    {
+      "sizes": "76x76",
+      "density": "1.5",
+      "type": "image/png",
+      "src": "/assets/icons/icon-76x76.png"
+    },
+    {
+      "sizes": "72x72",
+      "density": "1.5",
+      "type": "image/png",
+      "src": "/assets/icons/icon-72x72.png"
+    },
+    {
+      "sizes": "57x57",
+      "density": "1.5",
+      "type": "image/png",
+      "src": "/assets/icons/icon-57x57.png"
+    },
+    {
+      "sizes": "48x48",
+      "density": "1.0",
+      "type": "image/png",
+      "src": "/assets/icons/icon-48x48.png"
+    },
+    {
+      "sizes": "36x36",
+      "density": "0.75",
+      "type": "image/png",
+      "src": "/assets/icons/icon-36x36.png"
+    },
+    {
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "src": "/assets/icons/maskable_512.jpg",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#FFF",
+  "background_color": "#000642",
+  "display": "standalone",
+  "orientation": "portrait"
+}
