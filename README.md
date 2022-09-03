@@ -1,11 +1,12 @@
-# DevStreetLab Metaverse
+# DevStreetLab Boilerplate
+
+NextJS App using Typescript, TailwindCSS, Ant.Design, Zustand and fully support with PWA plus SEO as a default
 
 ### Structures
 
 ```txt
-.
 ├── README.md
-├── index.ts
+├── index.d.ts
 ├── next-env.d.ts
 ├── next-seo.config.js
 ├── next.config.js
@@ -41,10 +42,17 @@
 │   ├── assets
 │   │   └── bg-metaverse.jpeg
 │   ├── components
-│   │   └── SEO.tsx
+│   │   ├── SEO.tsx
+│   │   ├── layout
+│   │   │   └── MainWrapper.tsx
+│   │   └── routes
+│   │       ├── Nav.tsx
+│   │       └── PageTitle.tsx
 │   ├── pages
 │   │   ├── _app.tsx
 │   │   ├── _document.tsx
+│   │   ├── about.tsx
+│   │   ├── help.tsx
 │   │   └── index.tsx
 │   ├── styles
 │   │   └── globals.css
